@@ -630,3 +630,4 @@ const TaskCard = ({ task, onComplete }) => {
   );
 };
 
+export default SmartStudyPlanner;
